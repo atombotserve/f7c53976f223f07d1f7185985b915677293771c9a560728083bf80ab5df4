@@ -1,0 +1,12 @@
+{
+      "name": "f7c53976f223f07d1f7185985b915677293771c9a560728083bf80ab5df4",
+      "theme": "syntax",
+      "version": "20.0.0",
+      "description": "หมายเหตุ หวยมาเล ย์ 24 ประตู หวยมาเลย์",
+      "repository": "https://github.com/atombotserve/f7c53976f223f07d1f7185985b915677293771c9a560728083bf80ab5df4",
+      "keywords": "ไม่ผ่านเอเย่นต์",
+      "license": "MIT",
+      "engines": {
+        "atom": ">=1.0.0 <2.0.0"
+      }
+    }
